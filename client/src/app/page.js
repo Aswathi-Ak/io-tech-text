@@ -1,7 +1,7 @@
 'use client'
 
 import Image from "next/image";
-import Header from "./components/Header";
+import Header from "../components/Header";
 import { useEffect,useState } from "react";
 import axios from "axios";
 
