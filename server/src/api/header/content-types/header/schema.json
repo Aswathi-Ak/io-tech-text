@@ -15,6 +15,17 @@
       "type": "json"
     },
     "logo": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "person": {
       "allowedTypes": [
         "images",
         "files",
